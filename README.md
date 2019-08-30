@@ -2,9 +2,9 @@
 
 All that you're required to do for this assignment is to edit this README with a bit of information:
 
-* Your name
-* Your favorite programming language
-* Your favorite text editor
+* Rayan Ahmed
+* Java
+* Visual Studio Code
 
 Also, upload a picture of you to the repo (to help me learn your name).
 
